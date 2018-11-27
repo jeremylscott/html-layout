@@ -1,0 +1,31 @@
+nav {
+    background: darkgray;
+    height: 100px;
+}
+
+.left {
+    background: lightgray;
+    height: 829px;  
+    width: 80px;
+    float: left;
+}
+
+.right {
+    background: lightgray;
+    height: 829px;
+    width: 80px;
+    float: right;
+}
+
+#foot {
+    background: black;
+    position: absolute;
+    bottom: 0; 
+    height: 50px;
+    width: 88vw;
+    margin-left: 80px;   
+}
+
+html {
+  position: relative;  
+}
